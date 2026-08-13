@@ -29,3 +29,5 @@ yarn-error.log*
 /dist/
 /outputs/
 /work/
+
+/PRESENTATION_GUIDE.md
